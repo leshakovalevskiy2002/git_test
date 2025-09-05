@@ -1,3 +1,5 @@
 confidential.txt
 logs/*
 !logs/trackable.log
+new_folder/uploads/*
+!**.gitkeep
